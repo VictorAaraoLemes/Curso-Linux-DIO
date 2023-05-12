@@ -26,6 +26,6 @@
 
 | GP_ADM | GP_VEN    | GP_SEC  |
 | ------- | ---------- | -------- |
-| carlos  | debora     | josefina |
-| maria   | sebastiana | amanda   |
-| joao\_  | roberto    | rogerio  |
+| carlos  | debora     | victor   |
+| maria   | carol      | junior   |
+| joao\_  | roberta    | joaquim  |
