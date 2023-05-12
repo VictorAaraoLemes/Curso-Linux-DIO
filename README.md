@@ -11,20 +11,20 @@
 
 ### - Grupos
 
-1. GRP_ADM
-2. GRP_VEN
-3. GRP_SEC
+1. GP_ADM
+2. GP_VEN
+3. GP_SEC
 
 ### - Diretórios
 
-| GRP_ADM  | GRP_VEN  | GRP_SEC  |
+| GP_ADM  | GP_VEN  | GP_SEC  |
 | -------- | -------- | -------- |
 | /publico | /publico | /publico |
 | /adm     | /ven     | /sec     |
 
 ### - Usuários
 
-| GRP_ADM | GRP_VEN    | GRP_SEC  |
+| GP_ADM | GP_VEN    | GP_SEC  |
 | ------- | ---------- | -------- |
 | carlos  | debora     | josefina |
 | maria   | sebastiana | amanda   |
