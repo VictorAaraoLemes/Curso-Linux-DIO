@@ -1,4 +1,4 @@
-# Curso AWS - Projeto 1
+# Curso Linux - Projeto 1
 
 ---
 
